@@ -1,7 +1,3 @@
-This is a sample README.md file. Please edit according to the instructions.
-
-Thanks :D
-
 Nathaniel Mills 30291076
 Kavi Gosine     30130346
 Nicolas Jaimes  30286828
