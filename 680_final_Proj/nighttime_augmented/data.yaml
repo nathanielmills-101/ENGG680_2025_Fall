@@ -1,0 +1,5 @@
+names:
+- pothole
+nc: 1
+train: /content/nighttime_augmented/train/images
+val: /content/nighttime_augmented/val/images
