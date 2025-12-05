@@ -1,0 +1,12 @@
+names:
+- pothole
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: pothole-detection-bfeeg-grxp2
+  url: https://universe.roboflow.com/engg-680-project/pothole-detection-bfeeg-grxp2/dataset/4
+  version: 4
+  workspace: engg-680-project
+test: ../test/images
+train: ../train/images
+val: ../valid/images
